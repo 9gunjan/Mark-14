@@ -1,8 +1,22 @@
 body{
     text-align: center;
-    
+    background-color: #ECE7B4;
+
 }
 label{
     display: block;
     padding: 1rem;
+    text-align: center;
+}
+h1{
+  font-weight: bolder;
+  font-size: 50px;
+  color: #5C7AEA;
+  
+}
+#output-box{
+  font-size: 50px;
+  padding-top: 2rem;
+  color:#5C7AEA;
+
 }
